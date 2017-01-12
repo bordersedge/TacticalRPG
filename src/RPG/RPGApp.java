@@ -1,4 +1,5 @@
 package RPG;
+//hi ben, see my changes?
 //import needs;
 //import needed classes;
 import java.awt.event.*;
@@ -37,6 +38,8 @@ public class RPGApp extends JFrame {
 	}
 	
 	public RPGApp(){
+		
+		System.
 		
 		UIManager.put("Label.font", new Font("Garamond", Font.BOLD, 14));
 		
